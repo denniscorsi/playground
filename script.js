@@ -1,5 +1,6 @@
 
 
 function sayHi(){
-alert("Hello!");
+//alert("Hello!");
+document.getElementById("emptyDiv").innerText = "Hello!!"
 }
